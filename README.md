@@ -192,3 +192,22 @@ No limit is set for the number of input *csv* files.
 ```
 
 The checker will save a *csv* file to the desired output name. It will contain all metagenomic metadata information from all the input files. Metagenomic IDs that were present in multiple files, will only be added once to the output file.
+
+## Data Analysis
+
+### Prerequisites for Data Analysis
+
+In order to run this program without problem *Python Version 3.5+* is required. Additionally, the following packages need to be installed:
+
+```
+pandas~=1.2.4
+matplotlib~=3.4.1
+numpy~=1.19.2
+scipy~=1.6.2
+```
+
+If you encounter any problems running the programm, please contact [Mario Rauh](mailto:mario.rauh@student.uni-tuebingen.de?subject=[GitHub]%20MasterThesis-PGPT).
+
+In order to inspect your created metadata file, we offer a tool called *DataAnalysis.py* which can be used to create different plots to visualize the data.
+
+We recommend to run `python DataAnalysis.py -h` to find out more about the different options.
