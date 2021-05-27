@@ -1,8 +1,8 @@
 # Metagenomic-Data-Collection
 
-Here, we offer you different tools to download, process, and analyze metagenomic metadata. Please check below, to see what the different tools can be used for in more detail. For Metadata Collection from [MG-Rast](https://www.mg-rast.org/) it is possible to use the [GenerateMetadataFile.py](#Metagenomic-Data-Collection-(via-MG-Rast)). For elimination of duplicates, we offer the [CSV_Check.py](#CSV-Checker).
+Here, we offer you different tools to download, process, and analyze metagenomic metadata. Please check below, to see what the different tools can be used for in more detail. For Metadata Collection from [MG-Rast](https://www.mg-rast.org/) it is possible to use the [GenerateMetadataFile.py](#Metagenomic-Data-Collection). For elimination of duplicates, we offer the [CSV_Check.py](#CSV-Checker).
 
-## Metagenomic Data Collection (via MG-Rast)
+## Metagenomic Data Collection
 
 This command line program offers a pipeline of creating a metadata file based on user-defined input parameters. Also, we offer the possibility to download the desired metagenomic files. Furthermore, the user has a chance of selecting a threshold to only receive those metagenomic data sets with a proper rarefaction curve. 
 All data sets will be downloaded from the official [MG-Rast Website](https://www.mg-rast.org/).
