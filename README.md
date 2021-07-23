@@ -1,6 +1,6 @@
-# Metagenomic-Data-Collection
+# Metagenomic-Metadata-Collection
 
-Here, we offer you different tools to download, process, and analyze metagenomic metadata. Please check below, to see what the different tools can be used for in more detail. For Metadata Collection from [MG-Rast](https://www.mg-rast.org/) it is possible to use the [GenerateMetadataFile.py](#Metagenomic-Data-Collection). For elimination of duplicates, we offer the [CSV_Check.py](#CSV-Checker). In order to get an overview over the metadata, the usage of [DataAnalysis.py](#Data-Analysis) is recommended.
+Here, we offer you different tools to download, process, and analyze metagenomic metadata. Please check below, to see what the different tools can be used for in more detail. For Metadata Collection from [MG-Rast](https://www.mg-rast.org/) it is possible to use the [GenerateMetadataFile.py](#Metagenomic-Metadata-Collection). For elimination of duplicates, we offer the [CSV_Check.py](#CSV-Checker). In order to get an overview over the metadata, the usage of [DataAnalysis.py](#Data-Analysis) is recommended.
 
 ## Metagenomic Data Collection
 
